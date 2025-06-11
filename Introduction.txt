@@ -1,4 +1,4 @@
-# Brief introduction about myself
+# Brief Introduction About Myself
 
 My name is Tyneah Lubambo, and I am an ambitious and dedicated learner currently enrolled in the ALX Software Engineering program. I live in Pretoria, South Africa, and I have a growing passion for technology and how it can be used to solve everyday challenges in society. Coming from a background where access to resources was not always easy, I’ve always been inspired to find ways to bring innovation and opportunity closer to underrepresented communities.
 
