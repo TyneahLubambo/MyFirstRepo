@@ -1,2 +1,3 @@
 # Brief introduction about myself
-My name is Tyneah Marko. I’m an aspiring software developer and am currently on a journey to build digital skills in technology through the ALX program. I’m passionate about using technology to solve real-world problems, especially in areas such as food accessibility and job creation. I look forward to gaining hands-on experience, contributing to impactful projects, and growing as a developer through this opportunity.
+
+My name is Tyneah Lubambo. I am an aspiring software developer currently enrolled in the ALX program. I am passionate about leveraging technology to solve real-world problems, particularly in areas such as education and healthcare. Through this journey, I aim to enhance my skills and make meaningful contributions to the tech community.
