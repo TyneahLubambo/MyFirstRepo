@@ -1,3 +1,9 @@
 # Brief introduction about myself
 
-My name is Tyneah Lubambo. I am an aspiring software developer currently enrolled in the ALX program. I am passionate about leveraging technology to solve real-world problems, particularly in areas such as education and healthcare. Through this journey, I aim to enhance my skills and make meaningful contributions to the tech community.
+My name is Tyneah Lubambo, and I am an ambitious and dedicated learner currently enrolled in the ALX Software Engineering program. I live in Pretoria, South Africa, and I have a growing passion for technology and how it can be used to solve everyday challenges in society. Coming from a background where access to resources was not always easy, I’ve always been inspired to find ways to bring innovation and opportunity closer to underrepresented communities.
+
+My tech journey started with curiosity — wondering how apps, websites, and digital tools work behind the scenes. Over time, that curiosity turned into a desire to learn how to build those tools myself. I’m especially interested in software development, data science, and creating digital solutions that improve education, agriculture, and access to information. I believe that technology, when used correctly, has the power to transform lives and create long-lasting impact.
+
+In addition to my technical learning, I’m also passionate about personal growth, teamwork, and communication. I believe that being a great developer is not only about writing code but also about understanding real-world problems, listening to people’s needs, and working with others to build meaningful solutions. I am excited about the challenges ahead, and I am committed to putting in the work to grow both personally and professionally.
+
+This repository marks an important step in my journey as a developer. It is my very first GitHub repository, created as part of my learning experience in the ALX program. I look forward to building many more projects and sharing my progress as I continue to grow in this exciting field.
